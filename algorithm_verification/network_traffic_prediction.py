@@ -84,7 +84,7 @@ def plot_forecasts(series, forecasts, n_test):
     # show the plot
     pyplot.show()
 
-# 循环读取csv数据
+# 循环读取csv数据，获取数集
 def read_from_dir():
     datadir = 'D:/WorkSpace/20200820资料/欧洲教育科研网数据'
     list = os.listdir(datadir)  # 列出文件夹下所有的目录与文件

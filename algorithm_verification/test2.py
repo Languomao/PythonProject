@@ -1,4 +1,9 @@
-from pandas import read_csv
+from pyhive import hive
 
-series = read_csv('IntraTM-2005-01-01-00-30.csv', header=0, index_col=0, squeeze=True)
-print(series.values)
+conn = hive.Connection(host='localhost', port=10002, username='hive', database='test')
+cursor = conn.cursor()
+sql = "select dst12 from traffic_matrices where srcid='12' limit 10;"
+cursor.execute(sql)
+str = " "
+for result in cursor.fetchall():
+	print(str.join(result))
