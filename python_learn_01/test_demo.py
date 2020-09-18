@@ -1,8 +1,4 @@
-a = 10
-def funcA(a):
-    print(id(a))
-    a += a**2
-    print(id(a))
-    return a
-funcA(a)
-print(id(a))
+a = 2.24
+b = 1.65
+print(1*1.1**3*1.2**7)
+

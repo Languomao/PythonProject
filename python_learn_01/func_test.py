@@ -1,7 +1,6 @@
 def hello():
     print('hello world')
     return
-    print('hello world2.')
 
 
 def power(x, y):
@@ -10,7 +9,7 @@ def power(x, y):
     return result
 
 
-def gcdtest(x, y):
+def gcd_test(x, y):
     """
     利用欧几里得算法求最大公约数
     :param x:参数一
@@ -42,5 +41,5 @@ def Dec2Bin(x):
     return result
 
 
-# print(gcdtest(65, 26))
+# print(gcd_test(65, 26))
 print(Dec2Bin(789))
