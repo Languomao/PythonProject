@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b77024b-ed1d-4240-8647-5051c301dd3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_learn_01/My_Timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learn_01/func_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learn_01/func_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learn_01/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learn_01/test_demo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonLearn$network_traffic_prediction.coverage" NAME="network_traffic_prediction Coverage Results" MODIFIED="1598596398299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_verification" />
+    <SUITE FILE_PATH="coverage/PythonLearn$binarySearch.coverage" NAME="binarySearch Coverage Results" MODIFIED="1571641571684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$liveordead.coverage" NAME="liveordead Coverage Results" MODIFIED="1571370557204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1570612486130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1571712765403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1572230491203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1570590167726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1571814967952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Print.coverage" NAME="Print Coverage Results" MODIFIED="1569741800813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$test.coverage" NAME="test Coverage Results" MODIFIED="1598580294910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_verification" />
+    <SUITE FILE_PATH="coverage/PythonLearn$using_sys.coverage" NAME="using_sys Coverage Results" MODIFIED="1570605828425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1571641443180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$DivideandConquer.coverage" NAME="DivideandConquer Coverage Results" MODIFIED="1571800388155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1569751391619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonLearn$using_name.coverage" NAME="using_name Coverage Results" MODIFIED="1570607807554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>series_to_supervised</find>
+      <find>supervised</find>
+      <find>series</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="19f828f0-3828-4887-af2e-7824fadb2ac7" />
+  <component name="ProjectId" id="1gttW7TMGXudeaxF0BkkYlKotek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python3/Python36-32" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmWorkSpace\PythonLearn\algorithm_verification" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmWorkSpace\PythonLearn\traffic-prediction" />
+      <recent name="E:\PycharmWorkSpace\PythonLearn\workdir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.My_Timer">
+    <configuration name="My_Timer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/My_Timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.My_Timer" />
+        <item itemvalue="Python.demo_11" />
+        <item itemvalue="Python.demo_10" />
+        <item itemvalue="Python.demo_09" />
+        <item itemvalue="Python.test_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b77024b-ed1d-4240-8647-5051c301dd3c" name="Default Changelist" comment="" />
+      <created>1569741612406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569741612406</updated>
+      <workItem from="1569741619013" duration="1618000" />
+      <workItem from="1569750838872" duration="1180000" />
+      <workItem from="1570505279381" duration="2100000" />
+      <workItem from="1570584516778" duration="9846000" />
+      <workItem from="1570778303492" duration="1581000" />
+      <workItem from="1570780711840" duration="447000" />
+      <workItem from="1570842808974" duration="1825000" />
+      <workItem from="1570845337742" duration="1560000" />
+      <workItem from="1570847781247" duration="602000" />
+      <workItem from="1570851803448" duration="299000" />
+      <workItem from="1570861990726" duration="784000" />
+      <workItem from="1570868550364" duration="667000" />
+      <workItem from="1571130385992" duration="1717000" />
+      <workItem from="1571195747056" duration="2901000" />
+      <workItem from="1571276848330" duration="9748000" />
+      <workItem from="1571365120826" duration="11165000" />
+      <workItem from="1571629021648" duration="7404000" />
+      <workItem from="1571708890357" duration="13796000" />
+      <workItem from="1571794334657" duration="13766000" />
+      <workItem from="1571823477474" duration="593000" />
+      <workItem from="1571898976173" duration="6125000" />
+      <workItem from="1571966250165" duration="6793000" />
+      <workItem from="1572227412895" duration="3520000" />
+      <workItem from="1572231147575" duration="5796000" />
+      <workItem from="1572492665655" duration="3956000" />
+      <workItem from="1572572542563" duration="5726000" />
+      <workItem from="1573118878888" duration="885000" />
+      <workItem from="1573199924833" duration="2524000" />
+      <workItem from="1573456979292" duration="43000" />
+      <workItem from="1573550130933" duration="1058000" />
+      <workItem from="1573551777828" duration="28000" />
+      <workItem from="1594108315194" duration="1645000" />
+      <workItem from="1594110091336" duration="1885000" />
+      <workItem from="1594112631403" duration="113000" />
+      <workItem from="1594113063656" duration="1572000" />
+      <workItem from="1598336307577" duration="1944000" />
+      <workItem from="1598432028614" duration="1194000" />
+      <workItem from="1598488921084" duration="14054000" />
+      <workItem from="1598575523340" duration="8429000" />
+      <workItem from="1598596530504" duration="8003000" />
+      <workItem from="1598833843298" duration="5686000" />
+      <workItem from="1598858293253" duration="6007000" />
+      <workItem from="1598921097272" duration="5505000" />
+      <workItem from="1598945761178" duration="134000" />
+      <workItem from="1598946014088" duration="5040000" />
+      <workItem from="1599007775150" duration="776000" />
+      <workItem from="1599008618426" duration="8357000" />
+      <workItem from="1599094263830" duration="2291000" />
+      <workItem from="1599113915701" duration="6367000" />
+      <workItem from="1599180307891" duration="2556000" />
+      <workItem from="1599185612224" duration="6487000" />
+      <workItem from="1599439488824" duration="19765000" />
+      <workItem from="1599525598862" duration="3530000" />
+      <workItem from="1599535477827" duration="6760000" />
+      <workItem from="1599613168703" duration="2883000" />
+      <workItem from="1600054512818" duration="1838000" />
+      <workItem from="1600131910615" duration="339000" />
+      <workItem from="1600141025545" duration="1541000" />
+      <workItem from="1600217939355" duration="980000" />
+      <workItem from="1600225687597" duration="1196000" />
+      <workItem from="1600237043641" duration="598000" />
+      <workItem from="1600307052420" duration="600000" />
+      <workItem from="1600324193178" duration="6178000" />
+      <workItem from="1600352133681" duration="1197000" />
+      <workItem from="1600357301764" duration="539000" />
+      <workItem from="1600416715829" duration="619000" />
+    </task>
+    <task id="LOCAL-00001" summary="commited by LanKorment">
+      <created>1598602650069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598602650069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commited by LanKorment">
+      <created>1598607092104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598607092104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python learn test">
+      <created>1599536161210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599536161211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commited by LanKorment" />
+    <MESSAGE value="python learn test" />
+    <option name="LAST_COMMIT_MESSAGE" value="python learn test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2067" y="343" key="#Notifications" timestamp="1599007815046">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2067" y="343" key="#Notifications/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599007815046" />
+    <state x="1924" y="84" key="CommitChangelistDialog2" timestamp="1599536157526">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1924" y="84" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599536157526" />
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1599447761259">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
+    <state width="1877" height="427" key="GridCell.Tab.0.center" timestamp="1599447761259">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
+    <state width="1877" height="427" key="GridCell.Tab.0.left" timestamp="1599447761259">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
+    <state width="1877" height="427" key="GridCell.Tab.0.right" timestamp="1599447761259">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom" timestamp="1599447761260">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
+    <state width="1877" height="427" key="GridCell.Tab.1.center" timestamp="1599447761260">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
+    <state width="1877" height="427" key="GridCell.Tab.1.left" timestamp="1599447761260">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
+    <state width="1877" height="427" key="GridCell.Tab.1.right" timestamp="1599447761260">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
+    <state x="1827" y="164" key="SettingsEditor" timestamp="1599008853862">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1827" y="164" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599008853862" />
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599536305334">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599536305334" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1600329976794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1600329976794" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599462493911" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearn$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1599018011974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learn_01" />
+    <SUITE FILE_PATH="coverage/PythonLearn$demo_05.coverage" NAME="demo_05 Coverage Results" MODIFIED="1599447756634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learn_01" />
+  </component>
+</project>
