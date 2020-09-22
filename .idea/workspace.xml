@@ -3,15 +3,176 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6b77024b-ed1d-4240-8647-5051c301dd3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_learn_01/My_Timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learn_01/demo_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_learn_01/func_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learn_01/func_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_learn_01/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learn_01/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/stats_demo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/stats_demo.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/warn-stats_demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/build/stats_demo/xref-stats_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/demo_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/MSVCP140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/MSVCP140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtCore.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtGui.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtNetwork.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtUiTools.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtWidgets.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/QtXml.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/bearer/qgenericbearer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/iconengines/qsvgicon.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qgif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qicns.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qico.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qjpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qpdf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qsvg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qtga.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qtiff.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qwbmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/imageformats/qwebp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platforms/qminimal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platforms/qoffscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platforms/qwebgl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/platformthemes/qxdgdesktopportal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/plugins/styles/qwindowsvistastyle.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/qt.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_fi.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_gd.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_he.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_lv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/PySide2/translations/qtbase_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5DBus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Gui.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Network.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Pdf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Qml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5QmlModels.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Quick.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Svg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5VirtualKeyboard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Widgets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/Qt5Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/VCRUNTIME140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/d3dcompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/opengl32sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/pyside2.abi3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/shiboken2.abi3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/shiboken2/shiboken2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/stats.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/stats_demo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/stats_demo.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/dist/stats_demo/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/stats_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/stats_demo.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/ui/http.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5_learn_01/ui/stats.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/proxy_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learn_01/translastion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learn/tkinter_demo_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learn/tkinter_demo_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,51 +228,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="19f828f0-3828-4887-af2e-7824fadb2ac7" />
+  <component name="JupyterTrust" id="fcec28fa-0ec7-4711-b175-64b07864075f" />
   <component name="ProjectId" id="1gttW7TMGXudeaxF0BkkYlKotek" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python3/Python36-32" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PycharmWorkSpace\PythonLearn\algorithm_verification" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PyCharmWorkSpace\PythonProject\pyqt5_learn_01" />
       <recent name="E:\PycharmWorkSpace\PythonLearn\traffic-prediction" />
       <recent name="E:\PycharmWorkSpace\PythonLearn\workdir" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmWorkSpace\PythonLearn\algorithm_verification" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.My_Timer">
-    <configuration name="My_Timer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonLearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/My_Timer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.stats_demo">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,20 +278,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5_learn_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5_learn_01/demo_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="proxy_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +310,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/proxy_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,20 +319,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stats_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5_learn_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/demo_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5_learn_01/stats_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tkinter_demo_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +346,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn_01/test_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learn/tkinter_demo_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_demo_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter_learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learn/tkinter_demo_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.My_Timer" />
-        <item itemvalue="Python.demo_11" />
-        <item itemvalue="Python.demo_10" />
-        <item itemvalue="Python.demo_09" />
-        <item itemvalue="Python.test_demo" />
+        <item itemvalue="Python.stats_demo" />
+        <item itemvalue="Python.demo_01" />
+        <item itemvalue="Python.tkinter_demo_02" />
+        <item itemvalue="Python.tkinter_demo_01" />
+        <item itemvalue="Python.proxy_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +469,9 @@
       <workItem from="1600352133681" duration="1197000" />
       <workItem from="1600357301764" duration="539000" />
       <workItem from="1600416715829" duration="619000" />
+      <workItem from="1600573651986" duration="6678000" />
+      <workItem from="1600658392585" duration="4466000" />
+      <workItem from="1600739357528" duration="5563000" />
     </task>
     <task id="LOCAL-00001" summary="commited by LanKorment">
       <created>1598602650069</created>
@@ -383,6 +546,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commited by LanKorment" />
     <MESSAGE value="python learn test" />
     <option name="LAST_COMMIT_MESSAGE" value="python learn test" />
@@ -396,42 +560,51 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1924" y="84" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599536157526" />
-    <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1599447761259">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
-    <state width="1877" height="427" key="GridCell.Tab.0.center" timestamp="1599447761259">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.0.center" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
-    <state width="1877" height="427" key="GridCell.Tab.0.left" timestamp="1599447761259">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.0.left" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
-    <state width="1877" height="427" key="GridCell.Tab.0.right" timestamp="1599447761259">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761259" />
-    <state width="1877" height="427" key="GridCell.Tab.1.bottom" timestamp="1599447761260">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.1.bottom" timestamp="1600743509371">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
-    <state width="1877" height="427" key="GridCell.Tab.1.center" timestamp="1599447761260">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600743509371" />
+    <state width="1323" height="261" key="GridCell.Tab.1.center" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
-    <state width="1877" height="427" key="GridCell.Tab.1.left" timestamp="1599447761260">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.1.left" timestamp="1600743509370">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
-    <state width="1877" height="427" key="GridCell.Tab.1.right" timestamp="1599447761260">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600743509370" />
+    <state width="1323" height="261" key="GridCell.Tab.1.right" timestamp="1600743509371">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="427" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599447761260" />
-    <state x="1827" y="164" key="SettingsEditor" timestamp="1599008853862">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="261" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600743509371" />
+    <state x="328" y="17" key="SettingsEditor" timestamp="1600739866560">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1827" y="164" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599008853862" />
+    <state x="328" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600739866560" />
     <state x="1918" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599536305334">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -442,8 +615,20 @@
     <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1600329976794" />
     <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599462493911" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonLearn$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1599018011974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learn_01" />
+    <SUITE FILE_PATH="coverage/PythonProject$stats_demo.coverage" NAME="stats_demo Coverage Results" MODIFIED="1600743493273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5_learn_01" />
     <SUITE FILE_PATH="coverage/PythonLearn$demo_05.coverage" NAME="demo_05 Coverage Results" MODIFIED="1599447756634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learn_01" />
   </component>
 </project>
